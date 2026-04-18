@@ -5,3 +5,4 @@ __pycache__/
 backend/data/input/*.mp4
 backend/output/*.mp4
 backend/reports/*.json
+*.pt
