@@ -1,5 +1,7 @@
 node_modules/
 __pycache__/
 *.pyc
-output/*.mp4
-data/input/*.mp4
+
+backend/data/input/*.mp4
+backend/output/*.mp4
+backend/reports/*.json
